@@ -3,7 +3,7 @@
 <!--
 **devguno/devguno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
+![devguno's github stats](https://github-readme-stats.vercel.app/api?username=devguno&show_icons=true&theme=tokyonight)
 
 Here are some ideas to get you started:
 
