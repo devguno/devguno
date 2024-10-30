@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 -->
 
 ![devguno's github stats](https://github-readme-stats.vercel.app/api?username=devguno&show_icons=true&theme=tokyonight&hide_rank=true&hide=issues)
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{devguno}?pet-id=1" width="1000" height="120"/>
+</a>
