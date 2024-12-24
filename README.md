@@ -21,35 +21,6 @@ Here are some ideas to get you started:
 
 ![devguno's github stats](https://github-readme-stats.vercel.app/api?username=devguno&show_icons=true&theme=tokyonight&hide_rank=true&hide=issues)
 
-<!-- SLOTH_KING Level 11 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403097" width="1000" height="60"/>
-</a>
-<!-- MOLE Level 8 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403098" width="1000" height="60"/>
-</a>
-<!-- GOOSE Level 11 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403100" width="1000" height="60"/>
-</a>
-<!-- SLIME_GREEN Level 8 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403101" width="1000" height="60"/>
-</a>
-<!-- PENGUIN Level 2 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403102" width="1000" height="60"/>
-</a>
-<!-- GOOSE Level 3 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=651631142837142686" width="1000" height="60"/>
-</a>
-<!-- RABBIT Level 0 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=657125334547289908" width="1000" height="60"/>
-</a>
-
 <!-- Farm Mode - All Pets Display -->
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/devguno"/>
