@@ -25,45 +25,45 @@ Here are some ideas to get you started:
 
 <!-- SLOTH_KING Level 7 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403096" width="1000" height="60"/>
+  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403096" width="1000" height="10"/>
 </a>
 
 <!-- SLOTH_KING Level 11 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403097" width="1000" height="60"/>
+  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403097" width="1000" height="10"/>
 </a>
 
 <!-- MOLE Level 8 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403098" width="1000" height="60"/>
+  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403098" width="1000" height="10"/>
 </a>
 
 <!-- SLOTH Level 5 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403099" width="1000" height="60"/>
+  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403099" width="1000" height="10"/>
 </a>
 
 <!-- GOOSE Level 11 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403100" width="1000" height="60"/>
+  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403100" width="1000" height="10"/>
 </a>
 
 <!-- SLIME_GREEN Level 8 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403101" width="1000" height="60"/>
+  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403101" width="1000" height="10"/>
 </a>
 
 <!-- PENGUIN Level 2 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403102" width="1000" height="60"/>
+  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403102" width="1000" height="10"/>
 </a>
 
 <!-- GOOSE Level 3 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=651631142837142686" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/devguno?pet-id=651631142837142686" width="1000" height="10"/>
 </a>
 
 <!-- RABBIT Level 0 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=657125334547289908" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/devguno?pet-id=657125334547289908" width="1000" height="10"/>
 </a>
