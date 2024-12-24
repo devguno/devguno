@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 
 
 
-<!-- SLOTH_KING Level 7 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403096" width="1000" height="60"/>
-</a>
-
 <!-- SLOTH_KING Level 11 -->
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403097" width="1000" height="60"/>
@@ -36,11 +31,6 @@ Here are some ideas to get you started:
 <!-- MOLE Level 8 -->
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403098" width="1000" height="60"/>
-</a>
-
-<!-- SLOTH Level 5 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devguno?pet-id=639371653282403099" width="1000" height="60"/>
 </a>
 
 <!-- GOOSE Level 11 -->
