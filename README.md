@@ -23,5 +23,9 @@ Here are some ideas to get you started:
 
 <!-- Farm Mode - All Pets Display -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/devguno"/>
+<img
+  src="https://render.gitanimals.org/farms/devguno"
+  width="600"
+  height="300"
+/>
 </a>
