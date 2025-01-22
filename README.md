@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![devguno's github stats](https://github-readme-stats.vercel.app/api?username=devguno&show_icons=true&theme=tokyonight&hide_rank=true&hide=issues)
 
-<!-- Farm Mode - All Pets Display -->
+<!-- Farm Mode - All Pets Display --> 
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/devguno"
